@@ -1,7 +1,8 @@
 # Virtual environments
 .venv/
-.venv-1/
-.venv-2/
+.venv-*/
+venv/
+env/
 
 # Datasets
 data/raw/
@@ -13,5 +14,5 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# VS Code
+# VS Code local settings
 .vscode/
