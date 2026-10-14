@@ -1,4 +1,4 @@
-# FinAvert: Credit Card Fraud Detection
+# FinAvert: Credit Card Fraud Detection Risk Analytics System
 
 FinAvert is a machine learning portfolio project focused on detecting fraudulent credit card transactions using Python. It explores data quality, exploratory data analysis, classification under severe class imbalance, model evaluation, and feature importance.
 
